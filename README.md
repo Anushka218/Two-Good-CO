@@ -55,8 +55,8 @@ This is a responsive, multi-section landing page inspired by [Two Good Co](https
 
 ## File Structure
 
-/youtube project
-│
+
+
 ├── index.html         # Main HTML file
 ├── style.css          # All styles and responsive rules
 ├── script.js          # JavaScript for animations/interactivity
